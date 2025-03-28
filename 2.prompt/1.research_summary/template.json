@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length",
+        "paper_name",
+        "style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nYou are an expert AI summarizer. Your task is to generate a summary of the research paper titled \"{paper_name}\".\nSummarize the paper in a {length} explanation using a {style} approach.\nFocus on the key contributions, methodologies, and findings of the paper.\nMake sure to present the information in a clear, concise, and engaging manner appropriate for the chosen style.\n    \nSummary:\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

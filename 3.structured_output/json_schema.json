@@ -1,0 +1,29 @@
+{
+    "title": "Review",
+    "type": "object",
+    "properties": {
+      "summary": {
+        "type": "string",
+        "description": "A one line summary of the review."
+      },
+      "sentiment": {
+        "type": "string",
+        "enum": ["pos", "neg", "neu"],
+        "description": "Return sentiment as Positive, negative or neutral"
+      },
+      "pros": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "List of pros",
+        "default": []
+      },
+      "cons": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "List of cons",
+        "default": []
+      }
+    },
+    "required": ["summary", "sentiment"]
+  }
+  

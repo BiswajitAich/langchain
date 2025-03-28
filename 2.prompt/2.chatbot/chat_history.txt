@@ -1,0 +1,2 @@
+HumanMessage(content="Hi, I need help with my recent order.")
+AIMessage(content="Sure, I'd be happy to assist you.")
