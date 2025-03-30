@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,Price,StockQuantity,Rating
+1,Widget A,Gadgets,19.99,150,4.5
+2,Widget B,Gadgets,29.99,100,4.2
+3,Thingamajig X,Tools,9.99,200,3.9
+4,Thingamabob Y,Tools,14.99,250,4.1
+5,Gizmo Pro,Electronics,99.99,50,4.8
+6,Gizmo Lite,Electronics,49.99,75,4.0
+7,Doohickey Z,Accessories,5.99,300,3.7
+8,Contraption Q,Innovations,199.99,25,4.9
