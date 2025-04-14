@@ -21,3 +21,6 @@ scikit-learn
 
 pypdf
 bs4
+
+chromadb
+wikipedia
