@@ -24,3 +24,6 @@ bs4
 
 chromadb
 wikipedia
+
+youtube-transcript-api
+faiss-cpu
