@@ -27,3 +27,6 @@ wikipedia
 
 youtube-transcript-api
 faiss-cpu
+
+duckduckgo-search
+langchain-experimental
